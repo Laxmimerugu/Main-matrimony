@@ -81,7 +81,7 @@ const Footer = () => (
         Copyright © 2024 Matrimony.com, the most trusted matrimony brand.
       </p>
       <div>
-        <span>FOLLOW US ON:</span>
+        <span>FOLLOW US ON : </span>
         <div className="social-icons">
           <a href="https://www.facebook.com" target="_blank" rel="noopener noreferrer">
             <FontAwesomeIcon icon={faFacebook} />
